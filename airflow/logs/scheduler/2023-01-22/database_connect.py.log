@@ -1,0 +1,210 @@
+[2023-01-22T05:00:09.457+0000] {processor.py:153} INFO - Started process (PID=170) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:00:09.463+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:00:09.467+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:00:09.466+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:00:09.572+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:00:09.637+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:00:09.637+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:00:09.670+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:00:09.670+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:00:09.697+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.254 seconds
+[2023-01-22T05:00:39.900+0000] {processor.py:153} INFO - Started process (PID=206) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:00:39.902+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:00:39.903+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:00:39.903+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:00:39.930+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:00:39.964+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:00:39.964+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:00:39.987+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:00:39.987+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:00:40.008+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.112 seconds
+[2023-01-22T05:01:10.079+0000] {processor.py:153} INFO - Started process (PID=231) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:01:10.082+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:01:10.085+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:01:10.084+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:01:10.154+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:01:10.231+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:01:10.231+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:01:10.262+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:01:10.262+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:01:10.290+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.225 seconds
+[2023-01-22T05:01:40.400+0000] {processor.py:153} INFO - Started process (PID=256) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:01:40.403+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:01:40.405+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:01:40.405+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:01:40.440+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:01:40.482+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:01:40.482+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:01:40.507+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:01:40.507+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:01:40.529+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.135 seconds
+[2023-01-22T05:02:10.871+0000] {processor.py:153} INFO - Started process (PID=281) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:02:10.873+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:02:10.876+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:02:10.875+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:02:10.921+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:02:10.957+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:02:10.956+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:02:10.990+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:02:10.990+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:02:11.010+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.146 seconds
+[2023-01-22T05:02:41.173+0000] {processor.py:153} INFO - Started process (PID=306) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:02:41.174+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:02:41.178+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:02:41.178+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:02:41.206+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:02:41.244+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:02:41.244+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:02:41.270+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:02:41.270+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:02:41.290+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.122 seconds
+[2023-01-22T05:03:11.461+0000] {processor.py:153} INFO - Started process (PID=331) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:03:11.463+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:03:11.465+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:03:11.465+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:03:11.492+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:03:11.526+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:03:11.526+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:03:11.550+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:03:11.549+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:03:11.571+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.115 seconds
+[2023-01-22T05:03:41.763+0000] {processor.py:153} INFO - Started process (PID=356) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:03:41.764+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:03:41.767+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:03:41.767+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:03:41.794+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:03:41.829+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:03:41.829+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:03:41.854+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:03:41.854+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:03:41.985+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.228 seconds
+[2023-01-22T05:04:12.161+0000] {processor.py:153} INFO - Started process (PID=381) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:04:12.162+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:04:12.164+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:04:12.164+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:04:12.190+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:04:12.227+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:04:12.227+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:04:12.366+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:04:12.366+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:04:12.389+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.232 seconds
+[2023-01-22T05:04:42.583+0000] {processor.py:153} INFO - Started process (PID=406) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:04:42.585+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:04:42.588+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:04:42.587+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:04:42.618+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:04:42.656+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:04:42.655+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:04:42.804+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:04:42.804+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:04:42.823+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.247 seconds
+[2023-01-22T05:05:12.905+0000] {processor.py:153} INFO - Started process (PID=431) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:05:12.907+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:05:12.909+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:05:12.908+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:05:12.937+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:05:13.095+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:05:13.095+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:05:13.123+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:05:13.123+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:05:13.146+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.248 seconds
+[2023-01-22T05:05:43.335+0000] {processor.py:153} INFO - Started process (PID=456) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:05:43.337+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:05:43.339+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:05:43.339+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:05:43.365+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:05:43.510+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:05:43.510+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:05:43.532+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:05:43.532+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:05:43.552+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.222 seconds
+[2023-01-22T05:06:13.724+0000] {processor.py:153} INFO - Started process (PID=481) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:06:13.726+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:06:13.728+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:06:13.727+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:06:13.869+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:06:13.898+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:06:13.898+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:06:13.918+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:06:13.918+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:06:13.938+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.219 seconds
+[2023-01-22T05:06:44.128+0000] {processor.py:153} INFO - Started process (PID=506) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:06:44.130+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:06:44.131+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:06:44.131+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:06:44.271+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:06:44.299+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:06:44.298+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:06:44.320+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:06:44.320+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:06:44.341+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.217 seconds
+[2023-01-22T05:07:14.540+0000] {processor.py:153} INFO - Started process (PID=531) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:07:14.542+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:07:14.543+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:07:14.543+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:07:14.681+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:07:14.712+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:07:14.711+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:07:14.733+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:07:14.733+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:07:14.758+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.222 seconds
+[2023-01-22T05:07:45.056+0000] {processor.py:153} INFO - Started process (PID=556) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:07:45.057+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:07:45.059+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:07:45.059+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:07:45.089+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:07:45.136+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:07:45.136+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:07:45.160+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:07:45.159+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:07:45.180+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.128 seconds
+[2023-01-22T05:08:15.364+0000] {processor.py:153} INFO - Started process (PID=581) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:08:15.366+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:08:15.368+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:08:15.368+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:08:15.395+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:08:15.433+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:08:15.433+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:08:15.456+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:08:15.456+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:08:15.477+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.117 seconds
+[2023-01-22T05:08:45.673+0000] {processor.py:153} INFO - Started process (PID=606) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:08:45.675+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:08:45.677+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:08:45.677+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:08:45.709+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:08:45.747+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:08:45.747+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:08:45.770+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:08:45.770+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:08:45.795+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.128 seconds
+[2023-01-22T05:09:16.002+0000] {processor.py:153} INFO - Started process (PID=632) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:09:16.003+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:09:16.004+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:09:16.004+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:09:16.038+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:09:16.081+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:09:16.081+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:09:16.107+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:09:16.107+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:09:16.131+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.134 seconds
+[2023-01-22T05:09:46.335+0000] {processor.py:153} INFO - Started process (PID=657) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:09:46.337+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:09:46.339+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:09:46.338+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:09:46.367+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:09:46.413+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:09:46.413+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:09:46.444+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:09:46.444+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:09:46.467+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.137 seconds
+[2023-01-22T05:10:16.666+0000] {processor.py:153} INFO - Started process (PID=683) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:10:16.667+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:10:16.669+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:10:16.668+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:10:16.699+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:10:16.734+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:10:16.734+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:10:16.757+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:10:16.757+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:10:16.778+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.117 seconds
+[2023-01-22T05:10:46.976+0000] {processor.py:153} INFO - Started process (PID=708) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:10:46.978+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:10:46.979+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:10:46.979+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:10:47.013+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:10:47.049+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:10:47.049+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:10:47.072+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:10:47.072+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:10:47.094+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.124 seconds
+[2023-01-22T05:11:17.261+0000] {processor.py:153} INFO - Started process (PID=733) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:11:17.263+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:11:17.265+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:11:17.264+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:11:17.291+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:11:17.346+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:11:17.346+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:11:17.370+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:11:17.369+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:11:17.393+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.137 seconds
+[2023-01-22T05:11:47.580+0000] {processor.py:153} INFO - Started process (PID=758) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:11:47.581+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:11:47.583+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:11:47.583+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:11:47.611+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:11:47.648+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:11:47.648+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:11:47.675+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:11:47.675+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:11:47.701+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.126 seconds
+[2023-01-22T05:12:17.872+0000] {processor.py:153} INFO - Started process (PID=783) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:12:17.873+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:12:17.875+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:12:17.874+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:12:17.902+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:12:17.937+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:12:17.937+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:12:17.960+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:12:17.960+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:12:17.982+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.115 seconds
+[2023-01-22T05:12:48.188+0000] {processor.py:153} INFO - Started process (PID=808) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:12:48.189+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:12:48.192+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:12:48.191+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:12:48.219+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:12:48.256+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:12:48.256+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:12:48.280+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:12:48.280+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:12:48.304+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.120 seconds
+[2023-01-22T05:13:18.475+0000] {processor.py:153} INFO - Started process (PID=833) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:13:18.477+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:13:18.479+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:13:18.478+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:13:18.504+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:13:18.539+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:13:18.539+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:13:18.563+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:13:18.563+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:13:18.584+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.114 seconds
+[2023-01-22T05:13:48.819+0000] {processor.py:153} INFO - Started process (PID=858) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:13:48.820+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:13:48.822+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:13:48.822+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:13:48.849+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:13:48.888+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:13:48.888+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:13:48.915+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:13:48.914+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:13:48.937+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.123 seconds
+[2023-01-22T05:14:19.113+0000] {processor.py:153} INFO - Started process (PID=883) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:14:19.115+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:14:19.117+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:14:19.117+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:14:19.143+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:14:19.182+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:14:19.182+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:14:19.216+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:14:19.215+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:14:19.238+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.130 seconds
+[2023-01-22T05:14:49.453+0000] {processor.py:153} INFO - Started process (PID=908) to work on /opt/airflow/dags/database_connect.py
+[2023-01-22T05:14:49.455+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/database_connect.py for tasks to queue
+[2023-01-22T05:14:49.457+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:14:49.457+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:14:49.482+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Database_connection']) retrieved from /opt/airflow/dags/database_connect.py
+[2023-01-22T05:14:49.520+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:14:49.520+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-22T05:14:49.542+0000] {logging_mixin.py:137} INFO - [2023-01-22T05:14:49.542+0000] {dag.py:3423} INFO - Setting next_dagrun for Database_connection to None, run_after=None
+[2023-01-22T05:14:49.563+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/database_connect.py took 0.118 seconds

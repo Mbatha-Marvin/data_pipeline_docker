@@ -1,0 +1,932 @@
+[2023-01-24T09:21:23.836+0000] {processor.py:153} INFO - Started process (PID=176) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:21:23.837+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T09:21:23.839+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:21:23.838+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:21:27.331+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:21:27.564+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:21:27.564+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:Vehicle_Data_Analysis
+[2023-01-24T09:21:27.583+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:21:27.583+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:Vehicle_Data_Analysis
+[2023-01-24T09:21:27.599+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:21:27.599+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:Vehicle_Data_Analysis
+[2023-01-24T09:21:27.601+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:21:27.600+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T09:21:27.659+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.10/site-packages/airflow/models/dag.py:3208 DeprecationWarning: The dag_concurrency option in [core] has been renamed to max_active_tasks_per_dag - the old setting has been used, but please update your config.
+[2023-01-24T09:21:27.665+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:21:27.664+0000] {dag.py:2711} INFO - Creating ORM DAG for Vehicle_Data_Analysis
+[2023-01-24T09:21:27.702+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:21:27.702+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T09:21:27.780+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 3.953 seconds
+[2023-01-24T09:21:58.244+0000] {processor.py:153} INFO - Started process (PID=225) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:21:58.245+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T09:21:58.247+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:21:58.247+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:21:58.986+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:21:59.009+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:21:59.008+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T09:21:59.030+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:21:59.030+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T09:21:59.047+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.810 seconds
+[2023-01-24T09:22:29.844+0000] {processor.py:153} INFO - Started process (PID=251) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:22:29.846+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T09:22:29.848+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:22:29.848+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:22:30.544+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:22:30.565+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:22:30.565+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T09:22:30.583+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:22:30.583+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T09:22:30.599+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.762 seconds
+[2023-01-24T09:23:01.056+0000] {processor.py:153} INFO - Started process (PID=277) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:23:01.058+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T09:23:01.060+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:23:01.060+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:23:01.752+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:23:01.785+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:23:01.785+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T09:23:01.805+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:23:01.805+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T09:23:01.823+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.772 seconds
+[2023-01-24T09:23:32.436+0000] {processor.py:153} INFO - Started process (PID=303) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:23:32.437+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T09:23:32.439+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:23:32.439+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:23:33.080+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:23:33.102+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:23:33.101+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T09:23:33.119+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:23:33.119+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T09:23:33.135+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.702 seconds
+[2023-01-24T09:24:03.750+0000] {processor.py:153} INFO - Started process (PID=329) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:24:03.751+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T09:24:03.754+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:24:03.753+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:24:04.443+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:24:04.464+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:24:04.463+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T09:24:04.481+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:24:04.481+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T09:24:04.500+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.754 seconds
+[2023-01-24T09:24:35.058+0000] {processor.py:153} INFO - Started process (PID=355) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:24:35.059+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T09:24:35.062+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:24:35.062+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:24:35.780+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:24:35.806+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:24:35.806+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T09:24:35.828+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:24:35.827+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T09:24:35.853+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.799 seconds
+[2023-01-24T09:25:06.242+0000] {processor.py:153} INFO - Started process (PID=381) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:25:06.244+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T09:25:06.245+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:25:06.245+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:25:07.008+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:25:07.030+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:25:07.029+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T09:25:07.048+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:25:07.048+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T09:25:07.066+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.829 seconds
+[2023-01-24T09:25:37.650+0000] {processor.py:153} INFO - Started process (PID=407) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:25:37.652+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T09:25:37.655+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:25:37.654+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:25:38.315+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:25:38.338+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:25:38.338+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T09:25:38.357+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:25:38.357+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T09:25:38.376+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.733 seconds
+[2023-01-24T09:26:08.988+0000] {processor.py:153} INFO - Started process (PID=432) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:26:08.990+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T09:26:08.993+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:26:08.992+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:26:09.683+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:26:09.704+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:26:09.704+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T09:26:09.722+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:26:09.722+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T09:26:09.739+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.755 seconds
+[2023-01-24T09:26:40.284+0000] {processor.py:153} INFO - Started process (PID=458) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:26:40.285+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T09:26:40.287+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:26:40.287+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:26:41.050+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:26:41.079+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:26:41.079+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T09:26:41.103+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:26:41.103+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T09:26:41.133+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.852 seconds
+[2023-01-24T09:27:11.495+0000] {processor.py:153} INFO - Started process (PID=490) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:27:11.497+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T09:27:11.499+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:27:11.498+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:27:12.187+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:27:12.208+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:27:12.208+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T09:27:12.226+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:27:12.226+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T09:27:12.243+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.753 seconds
+[2023-01-24T09:27:42.873+0000] {processor.py:153} INFO - Started process (PID=516) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:27:42.875+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T09:27:42.877+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:27:42.877+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:27:43.670+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:27:43.691+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:27:43.691+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T09:27:43.711+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:27:43.711+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T09:27:43.730+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.860 seconds
+[2023-01-24T09:28:14.088+0000] {processor.py:153} INFO - Started process (PID=542) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:28:14.090+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T09:28:14.091+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:28:14.091+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:28:14.804+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:28:14.826+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:28:14.825+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T09:28:14.845+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:28:14.845+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T09:28:14.863+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.782 seconds
+[2023-01-24T09:28:45.493+0000] {processor.py:153} INFO - Started process (PID=568) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:28:45.494+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T09:28:45.496+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:28:45.496+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:28:46.303+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:28:46.329+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:28:46.329+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T09:28:46.363+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:28:46.363+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T09:28:46.396+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.907 seconds
+[2023-01-24T09:29:16.764+0000] {processor.py:153} INFO - Started process (PID=594) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:29:16.765+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T09:29:16.767+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:29:16.767+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:29:17.450+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:29:17.474+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:29:17.474+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T09:29:17.496+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:29:17.495+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T09:29:17.514+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.755 seconds
+[2023-01-24T09:29:48.064+0000] {processor.py:153} INFO - Started process (PID=620) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:29:48.065+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T09:29:48.067+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:29:48.067+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:29:48.758+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:29:48.782+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:29:48.782+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T09:29:48.801+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:29:48.801+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T09:29:48.823+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.763 seconds
+[2023-01-24T09:30:19.215+0000] {processor.py:153} INFO - Started process (PID=646) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:30:19.217+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T09:30:19.219+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:30:19.219+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:30:19.970+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:30:19.994+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:30:19.994+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T09:30:20.014+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:30:20.014+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T09:30:20.035+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.824 seconds
+[2023-01-24T09:30:50.636+0000] {processor.py:153} INFO - Started process (PID=672) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:30:50.638+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T09:30:50.641+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:30:50.641+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:30:51.382+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T09:30:51.412+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:30:51.411+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T09:30:51.438+0000] {logging_mixin.py:137} INFO - [2023-01-24T09:30:51.438+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T09:30:51.464+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.832 seconds
+[2023-01-24T13:48:01.571+0000] {processor.py:153} INFO - Started process (PID=178) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:48:01.578+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T13:48:01.584+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:48:01.583+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:48:04.101+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:48:04.318+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:48:04.317+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:Vehicle_Data_Analysis
+[2023-01-24T13:48:04.337+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:48:04.337+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:Vehicle_Data_Analysis
+[2023-01-24T13:48:04.356+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:48:04.356+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:Vehicle_Data_Analysis
+[2023-01-24T13:48:04.358+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:48:04.356+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T13:48:04.385+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.10/site-packages/airflow/models/dag.py:3208 DeprecationWarning: The dag_concurrency option in [core] has been renamed to max_active_tasks_per_dag - the old setting has been used, but please update your config.
+[2023-01-24T13:48:04.393+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:48:04.392+0000] {dag.py:2711} INFO - Creating ORM DAG for Vehicle_Data_Analysis
+[2023-01-24T13:48:04.423+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:48:04.423+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T13:48:04.456+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 2.891 seconds
+[2023-01-24T13:48:34.685+0000] {processor.py:153} INFO - Started process (PID=225) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:48:34.687+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T13:48:34.690+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:48:34.689+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:48:35.485+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:48:35.507+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:48:35.507+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T13:48:35.527+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:48:35.527+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T13:48:35.548+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.872 seconds
+[2023-01-24T13:49:06.182+0000] {processor.py:153} INFO - Started process (PID=251) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:49:06.183+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T13:49:06.185+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:49:06.184+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:49:06.881+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:49:06.905+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:49:06.904+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T13:49:06.923+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:49:06.923+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T13:49:06.942+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.764 seconds
+[2023-01-24T13:49:37.373+0000] {processor.py:153} INFO - Started process (PID=277) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:49:37.374+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T13:49:37.376+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:49:37.375+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:49:38.075+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:49:38.096+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:49:38.096+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T13:49:38.116+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:49:38.116+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T13:49:38.134+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.766 seconds
+[2023-01-24T13:50:08.793+0000] {processor.py:153} INFO - Started process (PID=303) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:50:08.794+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T13:50:08.796+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:50:08.796+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:50:09.472+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:50:09.494+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:50:09.493+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T13:50:09.512+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:50:09.512+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T13:50:09.529+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.740 seconds
+[2023-01-24T13:50:40.104+0000] {processor.py:153} INFO - Started process (PID=329) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:50:40.105+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T13:50:40.107+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:50:40.106+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:50:40.822+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:50:40.844+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:50:40.844+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T13:50:40.864+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:50:40.863+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T13:50:40.881+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.782 seconds
+[2023-01-24T13:51:11.294+0000] {processor.py:153} INFO - Started process (PID=355) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:51:11.296+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T13:51:11.297+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:51:11.297+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:51:11.956+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:51:11.977+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:51:11.977+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T13:51:11.997+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:51:11.996+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T13:51:12.014+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.724 seconds
+[2023-01-24T13:51:42.704+0000] {processor.py:153} INFO - Started process (PID=381) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:51:42.705+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T13:51:42.707+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:51:42.706+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:51:43.405+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:51:43.434+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:51:43.433+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T13:51:43.461+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:51:43.460+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T13:51:43.488+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.788 seconds
+[2023-01-24T13:52:14.022+0000] {processor.py:153} INFO - Started process (PID=407) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:52:14.023+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T13:52:14.025+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:52:14.025+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:52:14.707+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:52:14.729+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:52:14.729+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T13:52:14.748+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:52:14.748+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T13:52:14.767+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.749 seconds
+[2023-01-24T13:52:45.333+0000] {processor.py:153} INFO - Started process (PID=433) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:52:45.334+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T13:52:45.335+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:52:45.335+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:52:46.099+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:52:46.122+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:52:46.122+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T13:52:46.141+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:52:46.141+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T13:52:46.160+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.831 seconds
+[2023-01-24T13:53:16.499+0000] {processor.py:153} INFO - Started process (PID=459) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:53:16.500+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T13:53:16.502+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:53:16.502+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:53:17.187+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:53:17.208+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:53:17.208+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T13:53:17.227+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:53:17.227+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T13:53:17.245+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.751 seconds
+[2023-01-24T13:53:47.703+0000] {processor.py:153} INFO - Started process (PID=485) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:53:47.705+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T13:53:47.707+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:53:47.706+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:53:48.462+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:53:48.489+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:53:48.488+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T13:53:48.518+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:53:48.518+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T13:53:48.546+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.850 seconds
+[2023-01-24T13:54:19.127+0000] {processor.py:153} INFO - Started process (PID=511) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:54:19.128+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T13:54:19.129+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:54:19.129+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:54:19.881+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:54:19.907+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:54:19.907+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T13:54:19.930+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:54:19.929+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T13:54:19.948+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.825 seconds
+[2023-01-24T13:54:50.289+0000] {processor.py:153} INFO - Started process (PID=537) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:54:50.290+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T13:54:50.292+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:54:50.291+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:54:51.206+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:54:51.230+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:54:51.230+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T13:54:51.254+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:54:51.253+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T13:54:51.274+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.990 seconds
+[2023-01-24T13:55:21.615+0000] {processor.py:153} INFO - Started process (PID=563) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:55:21.617+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T13:55:21.619+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:55:21.619+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:55:22.277+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:55:22.300+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:55:22.300+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T13:55:22.319+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:55:22.319+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T13:55:22.344+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.734 seconds
+[2023-01-24T13:55:52.811+0000] {processor.py:153} INFO - Started process (PID=589) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:55:52.813+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T13:55:52.815+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:55:52.814+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:55:53.756+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:55:53.786+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:55:53.785+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T13:55:53.815+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:55:53.815+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T13:55:53.834+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 1.029 seconds
+[2023-01-24T13:56:24.113+0000] {processor.py:153} INFO - Started process (PID=615) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:56:24.115+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T13:56:24.117+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:56:24.117+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:56:24.784+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:56:24.809+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:56:24.808+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T13:56:24.827+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:56:24.827+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T13:56:24.843+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.734 seconds
+[2023-01-24T13:56:55.457+0000] {processor.py:153} INFO - Started process (PID=641) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:56:55.459+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T13:56:55.461+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:56:55.461+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:56:56.179+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:56:56.200+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:56:56.200+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T13:56:56.218+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:56:56.218+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T13:56:56.237+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.784 seconds
+[2023-01-24T13:57:26.781+0000] {processor.py:153} INFO - Started process (PID=668) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:57:26.782+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T13:57:26.784+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:57:26.784+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:57:27.508+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:57:27.529+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:57:27.529+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T13:57:27.551+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:57:27.550+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T13:57:27.569+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.792 seconds
+[2023-01-24T13:57:58.097+0000] {processor.py:153} INFO - Started process (PID=694) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:57:58.098+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T13:57:58.101+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:57:58.100+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:57:58.825+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:57:58.848+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:57:58.848+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T13:57:58.869+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:57:58.869+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T13:57:58.887+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.794 seconds
+[2023-01-24T13:58:29.267+0000] {processor.py:153} INFO - Started process (PID=720) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:58:29.269+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T13:58:29.270+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:58:29.270+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:58:30.040+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:58:30.063+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:58:30.062+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T13:58:30.082+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:58:30.082+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T13:58:30.100+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.840 seconds
+[2023-01-24T13:59:00.437+0000] {processor.py:153} INFO - Started process (PID=746) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:59:00.438+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T13:59:00.440+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:59:00.440+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:59:01.184+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:59:01.205+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:59:01.205+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T13:59:01.223+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:59:01.223+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T13:59:01.241+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.808 seconds
+[2023-01-24T13:59:31.602+0000] {processor.py:153} INFO - Started process (PID=778) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:59:31.604+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T13:59:31.606+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:59:31.605+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:59:32.370+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T13:59:32.394+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:59:32.394+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T13:59:32.414+0000] {logging_mixin.py:137} INFO - [2023-01-24T13:59:32.413+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T13:59:32.434+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.838 seconds
+[2023-01-24T14:00:02.788+0000] {processor.py:153} INFO - Started process (PID=804) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:00:02.790+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T14:00:02.793+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:00:02.792+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:00:03.491+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:00:03.513+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:00:03.513+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T14:00:03.530+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:00:03.530+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T14:00:03.558+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.778 seconds
+[2023-01-24T14:00:34.226+0000] {processor.py:153} INFO - Started process (PID=830) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:00:34.227+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T14:00:34.228+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:00:34.228+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:00:34.940+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:00:34.966+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:00:34.966+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T14:00:34.990+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:00:34.990+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T14:00:35.013+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.790 seconds
+[2023-01-24T14:01:05.581+0000] {processor.py:153} INFO - Started process (PID=856) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:01:05.582+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T14:01:05.585+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:01:05.584+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:01:06.308+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:01:06.330+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:01:06.329+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T14:01:06.354+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:01:06.354+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T14:01:06.371+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.799 seconds
+[2023-01-24T14:01:36.722+0000] {processor.py:153} INFO - Started process (PID=882) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:01:36.725+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T14:01:36.727+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:01:36.726+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:01:37.492+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:01:37.537+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:01:37.537+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T14:01:37.565+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:01:37.565+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T14:01:37.582+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.866 seconds
+[2023-01-24T14:02:07.952+0000] {processor.py:153} INFO - Started process (PID=908) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:02:07.953+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T14:02:07.955+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:02:07.955+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:02:08.633+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:02:08.656+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:02:08.656+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T14:02:08.676+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:02:08.676+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T14:02:08.695+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.749 seconds
+[2023-01-24T14:02:39.340+0000] {processor.py:153} INFO - Started process (PID=934) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:02:39.365+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T14:02:39.368+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:02:39.368+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:02:40.306+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:02:40.329+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:02:40.328+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T14:02:40.358+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:02:40.357+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T14:02:40.432+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 1.095 seconds
+[2023-01-24T14:03:10.731+0000] {processor.py:153} INFO - Started process (PID=964) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:03:10.732+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T14:03:10.734+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:03:10.733+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:03:11.447+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:03:11.479+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:03:11.478+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T14:03:11.500+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:03:11.500+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T14:03:11.519+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.795 seconds
+[2023-01-24T14:03:42.149+0000] {processor.py:153} INFO - Started process (PID=992) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:03:42.150+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T14:03:42.151+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:03:42.151+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:03:42.989+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:03:43.019+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:03:43.018+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T14:03:43.048+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:03:43.047+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T14:03:43.080+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.936 seconds
+[2023-01-24T14:04:13.417+0000] {processor.py:153} INFO - Started process (PID=1023) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:04:13.418+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T14:04:13.420+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:04:13.420+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:04:14.337+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:04:14.364+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:04:14.364+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T14:04:14.392+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:04:14.392+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T14:04:14.412+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 1.001 seconds
+[2023-01-24T14:04:44.692+0000] {processor.py:153} INFO - Started process (PID=1049) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:04:44.693+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T14:04:44.695+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:04:44.694+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:04:45.566+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:04:45.593+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:04:45.592+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T14:04:45.616+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:04:45.615+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T14:04:45.635+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.947 seconds
+[2023-01-24T14:05:16.004+0000] {processor.py:153} INFO - Started process (PID=1075) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:05:16.005+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T14:05:16.008+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:05:16.007+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:05:16.848+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:05:16.874+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:05:16.873+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T14:05:16.895+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:05:16.895+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T14:05:16.916+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.916 seconds
+[2023-01-24T14:05:47.284+0000] {processor.py:153} INFO - Started process (PID=1101) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:05:47.287+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T14:05:47.290+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:05:47.289+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:05:48.222+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:05:48.247+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:05:48.247+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T14:05:48.268+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:05:48.267+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T14:05:48.287+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 1.008 seconds
+[2023-01-24T14:06:18.643+0000] {processor.py:153} INFO - Started process (PID=1127) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:06:18.644+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T14:06:18.646+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:06:18.646+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:06:19.425+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:06:19.450+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:06:19.450+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T14:06:19.470+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:06:19.469+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T14:06:19.487+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.848 seconds
+[2023-01-24T14:06:49.815+0000] {processor.py:153} INFO - Started process (PID=1153) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:06:49.818+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T14:06:49.820+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:06:49.820+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:06:50.726+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:06:50.756+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:06:50.755+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T14:06:50.779+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:06:50.779+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T14:06:50.825+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 1.015 seconds
+[2023-01-24T14:07:21.115+0000] {processor.py:153} INFO - Started process (PID=1179) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:07:21.116+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T14:07:21.118+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:07:21.118+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:07:22.055+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:07:22.082+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:07:22.082+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T14:07:22.105+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:07:22.104+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T14:07:22.128+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 1.018 seconds
+[2023-01-24T14:07:52.468+0000] {processor.py:153} INFO - Started process (PID=1205) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:07:52.470+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T14:07:52.472+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:07:52.471+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:07:53.192+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:07:53.216+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:07:53.216+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T14:07:53.238+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:07:53.237+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T14:07:53.257+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.793 seconds
+[2023-01-24T14:08:23.618+0000] {processor.py:153} INFO - Started process (PID=1231) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:08:23.619+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T14:08:23.621+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:08:23.621+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:08:24.396+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:08:24.419+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:08:24.419+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T14:08:24.438+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:08:24.438+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T14:08:24.458+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.844 seconds
+[2023-01-24T14:08:54.794+0000] {processor.py:153} INFO - Started process (PID=1257) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:08:54.795+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T14:08:54.797+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:08:54.797+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:08:55.511+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:08:55.533+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:08:55.533+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T14:08:55.554+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:08:55.554+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T14:08:55.571+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.782 seconds
+[2023-01-24T14:09:25.965+0000] {processor.py:153} INFO - Started process (PID=1283) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:09:25.967+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T14:09:25.969+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:09:25.969+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:09:26.748+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:09:26.770+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:09:26.770+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T14:09:26.795+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:09:26.795+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T14:09:26.814+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.855 seconds
+[2023-01-24T14:09:57.155+0000] {processor.py:153} INFO - Started process (PID=1309) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:09:57.156+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T14:09:57.158+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:09:57.158+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:09:57.864+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:09:57.887+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:09:57.887+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T14:09:57.907+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:09:57.907+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T14:09:57.930+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.779 seconds
+[2023-01-24T14:10:28.587+0000] {processor.py:153} INFO - Started process (PID=1335) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:10:28.588+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T14:10:28.589+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:10:28.589+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:10:29.439+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:10:29.468+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:10:29.467+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T14:10:29.494+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:10:29.494+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T14:10:29.517+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.934 seconds
+[2023-01-24T14:10:59.877+0000] {processor.py:153} INFO - Started process (PID=1361) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:10:59.879+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T14:10:59.881+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:10:59.880+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:11:00.639+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:11:00.662+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:11:00.661+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T14:11:00.685+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:11:00.685+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T14:11:00.702+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.829 seconds
+[2023-01-24T14:11:31.063+0000] {processor.py:153} INFO - Started process (PID=1387) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:11:31.064+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T14:11:31.067+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:11:31.067+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:11:32.223+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T14:11:32.258+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:11:32.258+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T14:11:32.285+0000] {logging_mixin.py:137} INFO - [2023-01-24T14:11:32.285+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T14:11:32.312+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 1.255 seconds
+[2023-01-24T16:50:23.923+0000] {processor.py:153} INFO - Started process (PID=177) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:50:23.926+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T16:50:23.929+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:50:23.929+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:50:25.092+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:50:25.116+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:50:25.116+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T16:50:25.148+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:50:25.148+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T16:50:25.176+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 1.259 seconds
+[2023-01-24T16:50:55.388+0000] {processor.py:153} INFO - Started process (PID=224) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:50:55.389+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T16:50:55.392+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:50:55.391+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:50:56.222+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:50:56.244+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:50:56.243+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T16:50:56.263+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:50:56.263+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T16:50:56.280+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.896 seconds
+[2023-01-24T16:51:26.725+0000] {processor.py:153} INFO - Started process (PID=250) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:51:26.725+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T16:51:26.727+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:51:26.726+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:51:27.636+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:51:27.670+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:51:27.670+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T16:51:27.695+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:51:27.694+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T16:51:27.719+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 1.165 seconds
+[2023-01-24T16:51:58.208+0000] {processor.py:153} INFO - Started process (PID=276) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:51:58.209+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T16:51:58.211+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:51:58.210+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:51:59.170+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:51:59.192+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:51:59.192+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T16:51:59.212+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:51:59.211+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T16:51:59.229+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 1.026 seconds
+[2023-01-24T16:52:29.376+0000] {processor.py:153} INFO - Started process (PID=302) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:52:29.378+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T16:52:29.380+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:52:29.380+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:52:30.379+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:52:30.431+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:52:30.430+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T16:52:30.482+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:52:30.482+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T16:52:30.521+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 1.150 seconds
+[2023-01-24T16:53:01.153+0000] {processor.py:153} INFO - Started process (PID=328) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:53:01.200+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T16:53:01.202+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:53:01.201+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:53:02.913+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:53:02.943+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:53:02.943+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T16:53:02.962+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:53:02.962+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T16:53:03.617+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 2.472 seconds
+[2023-01-24T16:53:34.345+0000] {processor.py:153} INFO - Started process (PID=361) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:53:34.346+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T16:53:34.349+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:53:34.348+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:53:35.870+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:53:35.897+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:53:35.896+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T16:53:35.924+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:53:35.924+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T16:53:35.946+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 1.610 seconds
+[2023-01-24T16:56:14.127+0000] {processor.py:153} INFO - Started process (PID=177) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:56:14.134+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T16:56:14.137+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:56:14.137+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:56:16.195+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:56:16.416+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:56:16.416+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:Vehicle_Data_Analysis
+[2023-01-24T16:56:16.436+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:56:16.436+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:Vehicle_Data_Analysis
+[2023-01-24T16:56:16.453+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:56:16.452+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:Vehicle_Data_Analysis
+[2023-01-24T16:56:16.454+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:56:16.453+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T16:56:16.476+0000] {logging_mixin.py:137} WARNING - /home/airflow/.local/lib/python3.10/site-packages/airflow/models/dag.py:3208 DeprecationWarning: The dag_concurrency option in [core] has been renamed to max_active_tasks_per_dag - the old setting has been used, but please update your config.
+[2023-01-24T16:56:16.479+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:56:16.478+0000] {dag.py:2711} INFO - Creating ORM DAG for Vehicle_Data_Analysis
+[2023-01-24T16:56:16.499+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:56:16.498+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T16:56:16.523+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 2.400 seconds
+[2023-01-24T16:56:47.214+0000] {processor.py:153} INFO - Started process (PID=224) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:56:47.215+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T16:56:47.219+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:56:47.219+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:56:49.252+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:56:49.307+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:56:49.306+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T16:56:49.343+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:56:49.342+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T16:56:49.377+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 2.173 seconds
+[2023-01-24T16:57:19.560+0000] {processor.py:153} INFO - Started process (PID=249) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:57:19.563+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T16:57:19.567+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:57:19.566+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:57:24.012+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:57:24.638+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:57:24.638+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T16:57:24.661+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:57:24.661+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T16:57:28.316+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 8.765 seconds
+[2023-01-24T16:57:58.946+0000] {processor.py:153} INFO - Started process (PID=275) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:57:59.012+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T16:57:59.017+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:57:59.016+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:58:03.079+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:58:03.132+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:58:03.131+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T16:58:03.186+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:58:03.185+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T16:58:03.241+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 4.300 seconds
+[2023-01-24T16:58:33.774+0000] {processor.py:153} INFO - Started process (PID=301) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:58:33.776+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T16:58:33.778+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:58:33.778+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:58:35.359+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:58:35.419+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:58:35.418+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T16:58:35.503+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:58:35.503+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T16:58:35.605+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 1.840 seconds
+[2023-01-24T16:59:06.264+0000] {processor.py:153} INFO - Started process (PID=334) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:59:06.267+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T16:59:06.272+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:59:06.271+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:59:07.580+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:59:07.609+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:59:07.609+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T16:59:07.641+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:59:07.640+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T16:59:15.249+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 8.992 seconds
+[2023-01-24T16:59:45.958+0000] {processor.py:153} INFO - Started process (PID=463) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:59:45.966+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T16:59:45.969+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:59:45.968+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:59:48.819+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T16:59:48.948+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:59:48.947+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T16:59:49.089+0000] {logging_mixin.py:137} INFO - [2023-01-24T16:59:49.089+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T16:59:49.216+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 3.266 seconds
+[2023-01-24T17:00:19.507+0000] {processor.py:153} INFO - Started process (PID=534) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:00:19.519+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:00:19.526+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:00:19.526+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:00:22.400+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:00:22.477+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:00:22.477+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:00:22.541+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:00:22.540+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:00:22.578+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 3.080 seconds
+[2023-01-24T17:00:53.108+0000] {processor.py:153} INFO - Started process (PID=725) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:00:53.580+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:00:53.583+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:00:53.583+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:00:55.266+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:00:55.307+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:00:55.307+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:00:55.359+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:00:55.358+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:00:55.649+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 2.545 seconds
+[2023-01-24T17:01:26.528+0000] {processor.py:153} INFO - Started process (PID=786) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:01:26.529+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:01:26.531+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:01:26.531+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:01:27.330+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:01:27.358+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:01:27.358+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:01:27.380+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:01:27.379+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:01:27.398+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.874 seconds
+[2023-01-24T17:01:57.925+0000] {processor.py:153} INFO - Started process (PID=818) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:01:57.926+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:01:57.928+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:01:57.927+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:01:58.662+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:01:58.684+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:01:58.684+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:01:58.702+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:01:58.702+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:01:58.719+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.798 seconds
+[2023-01-24T17:02:29.084+0000] {processor.py:153} INFO - Started process (PID=844) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:02:29.085+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:02:29.088+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:02:29.087+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:02:29.874+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:02:29.898+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:02:29.897+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:02:29.919+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:02:29.919+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:02:29.936+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.859 seconds
+[2023-01-24T17:03:00.136+0000] {processor.py:153} INFO - Started process (PID=870) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:03:00.138+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:03:00.140+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:03:00.140+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:03:00.865+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:03:00.888+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:03:00.888+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:03:00.909+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:03:00.909+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:03:00.928+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.799 seconds
+[2023-01-24T17:03:31.470+0000] {processor.py:153} INFO - Started process (PID=899) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:03:31.471+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:03:31.472+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:03:31.472+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:03:32.225+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:03:32.246+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:03:32.245+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:03:32.265+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:03:32.265+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:03:32.284+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.820 seconds
+[2023-01-24T17:04:03.044+0000] {processor.py:153} INFO - Started process (PID=932) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:04:03.045+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:04:03.048+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:04:03.047+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:04:03.859+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:04:03.883+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:04:03.882+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:04:03.902+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:04:03.902+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:04:03.921+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.880 seconds
+[2023-01-24T17:04:34.271+0000] {processor.py:153} INFO - Started process (PID=958) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:04:34.272+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:04:34.274+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:04:34.274+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:04:35.003+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:04:35.025+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:04:35.025+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:04:35.044+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:04:35.044+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:04:35.068+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.801 seconds
+[2023-01-24T17:05:05.571+0000] {processor.py:153} INFO - Started process (PID=984) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:05:05.572+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:05:05.575+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:05:05.574+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:05:06.407+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:05:06.437+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:05:06.436+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:05:06.460+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:05:06.460+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:05:06.482+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.922 seconds
+[2023-01-24T17:05:36.823+0000] {processor.py:153} INFO - Started process (PID=1010) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:05:36.824+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:05:36.826+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:05:36.825+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:05:37.638+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:05:37.664+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:05:37.664+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:05:37.688+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:05:37.688+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:05:37.709+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.891 seconds
+[2023-01-24T17:06:07.966+0000] {processor.py:153} INFO - Started process (PID=1036) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:06:07.968+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:06:07.969+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:06:07.969+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:06:08.735+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:06:08.756+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:06:08.756+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:06:08.776+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:06:08.775+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:06:08.795+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.836 seconds
+[2023-01-24T17:06:39.192+0000] {processor.py:153} INFO - Started process (PID=1062) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:06:39.194+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:06:39.196+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:06:39.196+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:06:39.980+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:06:40.005+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:06:40.005+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:06:40.028+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:06:40.028+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:06:40.050+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.865 seconds
+[2023-01-24T17:07:10.470+0000] {processor.py:153} INFO - Started process (PID=1088) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:07:10.479+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:07:10.483+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:07:10.483+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:07:11.703+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:07:11.737+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:07:11.737+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:07:11.780+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:07:11.779+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:07:11.816+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 1.355 seconds
+[2023-01-24T17:07:41.991+0000] {processor.py:153} INFO - Started process (PID=1114) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:07:41.992+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:07:41.994+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:07:41.994+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:07:42.875+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:07:42.900+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:07:42.899+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:07:42.921+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:07:42.921+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:07:42.945+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.958 seconds
+[2023-01-24T17:08:13.172+0000] {processor.py:153} INFO - Started process (PID=1140) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:08:13.173+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:08:13.175+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:08:13.175+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:08:13.916+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:08:13.938+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:08:13.937+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:08:13.956+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:08:13.956+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:08:13.974+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.809 seconds
+[2023-01-24T17:08:44.602+0000] {processor.py:153} INFO - Started process (PID=1166) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:08:44.603+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:08:44.605+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:08:44.605+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:08:45.282+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:08:45.309+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:08:45.308+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:08:45.335+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:08:45.335+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:08:45.362+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.763 seconds
+[2023-01-24T17:09:15.932+0000] {processor.py:153} INFO - Started process (PID=1192) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:09:15.934+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:09:15.936+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:09:15.935+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:09:16.629+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:09:16.651+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:09:16.650+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:09:16.670+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:09:16.670+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:09:16.690+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.762 seconds
+[2023-01-24T17:09:47.273+0000] {processor.py:153} INFO - Started process (PID=1218) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:09:47.274+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:09:47.275+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:09:47.275+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:09:48.045+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:09:48.067+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:09:48.066+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:09:48.087+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:09:48.087+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:09:48.106+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.837 seconds
+[2023-01-24T17:10:18.522+0000] {processor.py:153} INFO - Started process (PID=1244) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:10:18.523+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:10:18.525+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:10:18.525+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:10:19.208+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:10:19.233+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:10:19.233+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:10:19.256+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:10:19.255+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:10:19.280+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.761 seconds
+[2023-01-24T17:10:49.841+0000] {processor.py:153} INFO - Started process (PID=1270) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:10:49.842+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:10:49.845+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:10:49.845+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:10:50.700+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:10:50.724+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:10:50.723+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:10:50.746+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:10:50.746+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:10:50.764+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.928 seconds
+[2023-01-24T17:11:21.141+0000] {processor.py:153} INFO - Started process (PID=1296) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:11:21.143+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:11:21.145+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:11:21.145+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:11:21.942+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:11:21.964+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:11:21.963+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:11:21.982+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:11:21.982+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:11:21.999+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.863 seconds
+[2023-01-24T17:11:52.400+0000] {processor.py:153} INFO - Started process (PID=1322) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:11:52.401+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:11:52.404+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:11:52.403+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:11:53.283+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:11:53.309+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:11:53.309+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:11:53.333+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:11:53.332+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:11:53.355+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.959 seconds
+[2023-01-24T17:12:23.731+0000] {processor.py:153} INFO - Started process (PID=1348) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:12:23.733+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:12:23.734+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:12:23.734+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:12:24.481+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:12:24.505+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:12:24.505+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:12:24.526+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:12:24.525+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:12:24.545+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.818 seconds
+[2023-01-24T17:12:54.912+0000] {processor.py:153} INFO - Started process (PID=1374) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:12:54.913+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:12:54.914+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:12:54.914+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:12:55.674+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:12:55.695+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:12:55.694+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:12:55.714+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:12:55.714+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:12:55.732+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.824 seconds
+[2023-01-24T17:13:26.105+0000] {processor.py:153} INFO - Started process (PID=1400) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:13:26.106+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:13:26.108+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:13:26.107+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:13:27.023+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:13:27.051+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:13:27.051+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:13:27.072+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:13:27.072+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:13:27.092+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.991 seconds
+[2023-01-24T17:13:57.326+0000] {processor.py:153} INFO - Started process (PID=1426) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:13:57.328+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:13:57.330+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:13:57.329+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:13:58.028+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:13:58.050+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:13:58.050+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:13:58.068+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:13:58.068+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:13:58.085+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.767 seconds
+[2023-01-24T17:14:28.632+0000] {processor.py:153} INFO - Started process (PID=1454) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:14:28.634+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:14:28.638+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:14:28.637+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:14:29.394+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:14:29.416+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:14:29.415+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:14:29.441+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:14:29.441+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:14:29.460+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.832 seconds
+[2023-01-24T17:15:00.073+0000] {processor.py:153} INFO - Started process (PID=1485) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:15:00.074+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:15:00.075+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:15:00.075+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:15:00.875+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:15:00.902+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:15:00.902+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:15:00.923+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:15:00.922+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:15:00.947+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.879 seconds
+[2023-01-24T17:15:31.258+0000] {processor.py:153} INFO - Started process (PID=1511) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:15:31.259+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:15:31.261+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:15:31.261+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:15:31.997+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:15:32.019+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:15:32.019+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:15:32.039+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:15:32.039+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:15:32.057+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.806 seconds
+[2023-01-24T17:16:02.476+0000] {processor.py:153} INFO - Started process (PID=1537) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:16:02.478+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:16:02.480+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:16:02.479+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:16:03.245+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:16:03.266+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:16:03.266+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:16:03.287+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:16:03.287+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:16:03.306+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.837 seconds
+[2023-01-24T17:16:33.820+0000] {processor.py:153} INFO - Started process (PID=1563) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:16:33.822+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:16:33.825+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:16:33.825+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:16:34.571+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:16:34.594+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:16:34.594+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:16:34.613+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:16:34.613+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:16:34.632+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.817 seconds
+[2023-01-24T17:17:05.262+0000] {processor.py:153} INFO - Started process (PID=1589) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:17:05.263+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:17:05.266+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:17:05.266+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:17:05.986+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:17:06.008+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:17:06.008+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:17:06.027+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:17:06.027+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:17:06.047+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.791 seconds
+[2023-01-24T17:17:36.615+0000] {processor.py:153} INFO - Started process (PID=1615) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:17:36.616+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:17:36.619+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:17:36.618+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:17:37.318+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:17:37.340+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:17:37.340+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:17:37.359+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:17:37.359+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:17:37.380+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.768 seconds
+[2023-01-24T17:18:07.961+0000] {processor.py:153} INFO - Started process (PID=1641) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:18:07.963+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:18:07.964+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:18:07.964+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:18:08.698+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:18:08.721+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:18:08.721+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:18:08.740+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:18:08.740+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:18:08.759+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.802 seconds
+[2023-01-24T17:18:39.129+0000] {processor.py:153} INFO - Started process (PID=1667) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:18:39.130+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:18:39.132+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:18:39.132+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:18:39.917+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:18:39.949+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:18:39.948+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:18:39.972+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:18:39.971+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:18:39.999+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.874 seconds
+[2023-01-24T17:19:10.393+0000] {processor.py:153} INFO - Started process (PID=1696) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:19:10.395+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:19:10.396+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:19:10.396+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:19:11.216+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:19:11.239+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:19:11.238+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:19:11.259+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:19:11.259+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:19:11.279+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.895 seconds
+[2023-01-24T17:19:42.040+0000] {processor.py:153} INFO - Started process (PID=1729) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:19:42.041+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:19:42.043+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:19:42.043+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:19:42.768+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:19:42.791+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:19:42.791+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:19:42.809+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:19:42.809+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:19:42.828+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.791 seconds
+[2023-01-24T17:20:13.206+0000] {processor.py:153} INFO - Started process (PID=1755) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:20:13.207+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:20:13.209+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:20:13.209+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:20:13.950+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:20:13.975+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:20:13.975+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:20:13.995+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:20:13.994+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:20:14.012+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.812 seconds
+[2023-01-24T17:20:44.377+0000] {processor.py:153} INFO - Started process (PID=1781) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:20:44.378+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:20:44.380+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:20:44.380+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:20:45.153+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:20:45.176+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:20:45.176+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:20:45.197+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:20:45.197+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:20:45.216+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.844 seconds
+[2023-01-24T17:21:15.589+0000] {processor.py:153} INFO - Started process (PID=1807) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:21:15.590+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:21:15.591+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:21:15.591+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:21:16.370+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:21:16.393+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:21:16.393+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:21:16.413+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:21:16.413+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:21:16.433+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.851 seconds
+[2023-01-24T17:21:46.801+0000] {processor.py:153} INFO - Started process (PID=1833) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:21:46.803+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:21:46.805+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:21:46.805+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:21:47.557+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:21:47.581+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:21:47.581+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:21:47.602+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:21:47.602+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:21:47.620+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.825 seconds
+[2023-01-24T17:22:17.982+0000] {processor.py:153} INFO - Started process (PID=1859) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:22:17.983+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:22:17.985+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:22:17.985+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:22:18.816+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:22:18.839+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:22:18.838+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:22:18.858+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:22:18.858+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:22:18.875+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.899 seconds
+[2023-01-24T17:22:49.241+0000] {processor.py:153} INFO - Started process (PID=1885) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:22:49.243+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:22:49.246+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:22:49.246+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:22:50.030+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:22:50.054+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:22:50.053+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:22:50.073+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:22:50.073+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:22:50.091+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.855 seconds
+[2023-01-24T17:23:20.462+0000] {processor.py:153} INFO - Started process (PID=1912) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:23:20.463+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:23:20.466+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:23:20.465+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:23:21.266+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:23:21.290+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:23:21.290+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:23:21.310+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:23:21.310+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:23:21.328+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.873 seconds
+[2023-01-24T17:23:51.683+0000] {processor.py:153} INFO - Started process (PID=1938) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:23:51.685+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:23:51.687+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:23:51.687+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:23:52.394+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:23:52.416+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:23:52.415+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:23:52.434+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:23:52.434+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:23:52.451+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.774 seconds
+[2023-01-24T17:24:23.112+0000] {processor.py:153} INFO - Started process (PID=1964) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:24:23.113+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:24:23.115+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:24:23.114+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:24:23.856+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:24:23.878+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:24:23.877+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:24:23.896+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:24:23.896+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:24:23.916+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.807 seconds
+[2023-01-24T17:24:54.307+0000] {processor.py:153} INFO - Started process (PID=1991) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:24:54.308+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:24:54.310+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:24:54.310+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:24:55.073+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:24:55.096+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:24:55.095+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:24:55.116+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:24:55.116+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:24:55.134+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.831 seconds
+[2023-01-24T17:25:25.483+0000] {processor.py:153} INFO - Started process (PID=2017) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:25:25.485+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:25:25.487+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:25:25.487+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:25:26.208+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:25:26.230+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:25:26.230+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:25:26.250+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:25:26.250+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:25:26.267+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.788 seconds
+[2023-01-24T17:25:56.812+0000] {processor.py:153} INFO - Started process (PID=2043) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:25:56.813+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:25:56.815+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:25:56.815+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:25:57.628+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:25:57.664+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:25:57.664+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:25:57.683+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:25:57.682+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:25:57.701+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.893 seconds
+[2023-01-24T17:26:28.130+0000] {processor.py:153} INFO - Started process (PID=2069) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:26:28.131+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:26:28.133+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:26:28.133+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:26:29.009+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:26:29.036+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:26:29.036+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:26:29.061+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:26:29.061+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:26:29.084+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.958 seconds
+[2023-01-24T17:26:59.329+0000] {processor.py:153} INFO - Started process (PID=2096) to work on /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:26:59.330+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/vehicle_analysis.py for tasks to queue
+[2023-01-24T17:26:59.332+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:26:59.332+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:27:00.089+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Vehicle_Data_Analysis']) retrieved from /opt/airflow/dags/vehicle_analysis.py
+[2023-01-24T17:27:00.114+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:27:00.113+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:27:00.136+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:27:00.136+0000] {dag.py:3437} INFO - Setting next_dagrun for Vehicle_Data_Analysis to None, run_after=None
+[2023-01-24T17:27:00.156+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/vehicle_analysis.py took 0.831 seconds
